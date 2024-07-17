@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong f
 ## 🛠️ Projects & Contributions
 Here are some of the projects I've worked on:
 
-### [🔍 Project Name 1](https://github.com/AkhilsaiSammeta/forticloud-security-gcp)
+### [🔍 FortiCloud](https://github.com/AkhilsaiSammeta/forticloud-security-gcp)
 - **Description**:FortiCloud is a project that enhances security in Google Cloud Platform (GCP) multi-tenant environments, ensuring data confidentiality, integrity, and availability 🌫️💻, so organizations can confidently adopt cloud technologies 🌟!
-- **Technologies Used**: Terraform,Kubernetes Engine (GKE),FortiGate,FortiWeb,FortiCASB,Stackdriver,Python, HCL (HashiCorp Configuration Language),
+- **Technologies Used**: Terraform, Kubernetes Engine (GKE), FortiGate, FortiWeb, FortiCASB, Stackdriver, Python, HCL (HashiCorp Configuration Language),
 
 ### [📊 Project Name 2](https://github.com/AkhilSaiSammeta/project2)
 - **Description**: Brief description of the project.
