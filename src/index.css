@@ -1,0 +1,7 @@
+:root{ font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'; line-height:1.5; font-weight: 450; }
+*{ box-sizing: border-box; }
+html, body, #root{ min-height:100%; }
+body{ margin:0; transition: background .3s ease, color .3s ease; }
+a{ color: inherit; text-decoration: none; }
+h1,h2,h3{ margin: .2rem 0 .6rem; }
+button{ font-family: inherit; }
